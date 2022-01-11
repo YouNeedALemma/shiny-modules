@@ -1,0 +1,5 @@
+Dockerfile	Dockerfile
+docker_ignore_add	docker_ignore_add
+dock_from_desc	dockerfiles
+get_sysreqs	get_sysreqs
+r	r
